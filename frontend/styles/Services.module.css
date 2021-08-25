@@ -1,0 +1,16 @@
+.container {
+ content: '';
+ display: table;
+ clear: both;
+ padding: 0.01em 16px;
+}
+
+.card-4 {
+ box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+ width: 200px;
+}
+
+.blue {
+ color: #fff !important;
+ background-color: #2196f3 !important;
+}
